@@ -1,5 +1,10 @@
 
 public class Main {
+	
+	/**
+	 * Main principal del programa
+	 * @param args
+	 */
 	public static void main(String[] args) {
 
 		System.out.println("Hola cara cola");
